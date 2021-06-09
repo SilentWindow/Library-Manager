@@ -1,0 +1,13 @@
+C:\Users\bmice\source\repos\libraryManager\libraryManager\bin\Debug\libraryManager.exe.config
+C:\Users\bmice\source\repos\libraryManager\libraryManager\bin\Debug\libraryManager.exe
+C:\Users\bmice\source\repos\libraryManager\libraryManager\bin\Debug\libraryManager.pdb
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.csprojAssemblyReference.cache
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.Form1.resources
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.Properties.Resources.resources
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.csproj.GenerateResource.cache
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.csproj.CoreCompileInputs.cache
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.exe
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.pdb
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.Dashboard.resources
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.AddBooks.resources
+C:\Users\bmice\source\repos\libraryManager\libraryManager\obj\Debug\libraryManager.ViewBooks.resources
